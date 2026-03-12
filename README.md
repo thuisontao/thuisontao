@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/006/181/890/non_2x/crypto-currency-icons-background-digital-money-exchange-of-blockchain-technology-banner-cryptocurrency-mining-and-financial-concept-vector.jpg)]
+![MasterHead](https://static.vecteezy.com/system/resources/previews/006/181/890/non_2x/crypto-currency-icons-background-digital-money-exchange-of-blockchain-technology-banner-cryptocurrency-mining-and-financial-concept-vector.jpg)
 <h1 align="center">Hi 👋, I'm Adrian Thuis</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/OiPwPNu-zokAAAAC/btc-bitcoin.gif">
