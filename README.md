@@ -1,6 +1,7 @@
 # Hey, I'm Adrian 👋
 
 **Full-Stack Developer in Training | Stepping into Web3**
+
 *"Getting a little better every day – just at the start of my coding journey."*
 
 ![Learning](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
